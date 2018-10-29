@@ -9,6 +9,7 @@ public class Addition {
 		c=a-b;
 		System.out.println("c =" +c);
 		System.out.println("c="+c);
+		System.out.println("c="+c);
 		
 		// TODO Auto-generated method stub
 
